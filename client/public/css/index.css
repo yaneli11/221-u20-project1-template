@@ -1,5 +1,8 @@
 body {
-	
+  background-image: url('.../images/https://www.google.com/imgres?q=marist%20pictures&imgurl=https%3A%2F%2Fwww.marist.edu%2Fdocuments%2F86200%2F94405%2FSTUDENT%2BCETNER%2BENTRANCE%2BSPOTLIGHT.png%2Feba278d7-2dd0-0f66-d409-89420511cd95%3Ft%3D1687894712670&imgrefurl=https%3A%2F%2Fwww.marist.edu%2Fstudent-life&docid=AxJ03jdSxnSH6M&tbnid=BNS65coqaTgcIM&vet=12ahUKEwj-kIzom-COAxWuw_ACHXVtOJIQM3oECA4QAA..i&w=570&h=390&hcb=2&ved=2ahUKEwj-kIzom-COAxWuw_ACHXVtOJIQM3oECA4QAA'); 
+	background-repeat: no-repeat;
+  background-position: center center;  
+  background-size: cover;
 }
 
 #splash_title {

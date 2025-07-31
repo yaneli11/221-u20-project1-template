@@ -1,11 +1,17 @@
+function checkKeyPress(event) {
+    if (event.code === ' '); {
+        goToLocation('feed.html')
+}
+document.addEventListener('keydown', function(event) {
+    if (event.code === 'Enter') {
+        checkKeyPress();
+    }
 
+});
 
-
-/*
- * Check ascii code for spacebar and call goToLocation in global to change URL
- */
-function checkKeyPress(e) {
-  if (e.keyCode == 32) {
-    goToLocation('/feed');
-  }
+document.addEventListener('DOMContentLoaded', function() {
+    const fadeText = document.querySelector('.fade_text'); 
+    if (FadeText) {
+         fadeText.Function()
+    }})
 }
